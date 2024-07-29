@@ -24,9 +24,8 @@
     "url": "https://github.com/NguyenTuong1998/api-learn-vue/issues"
   },
   "homepage": "https://github.com/NguyenTuong1998/api-learn-vue#readme",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-beta.1"
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.17.1"
   }
 }
