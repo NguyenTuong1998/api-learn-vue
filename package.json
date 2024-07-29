@@ -4,14 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NguyenTuong1998/api-learn-vue.git"
   },
-  "keywords": [],
+  "keywords": [
+    "restful",
+    "rest",
+    "api",
+    "vercel",
+    "json",
+    "server"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
